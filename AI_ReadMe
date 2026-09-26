@@ -1,0 +1,14 @@
+Hi, I ran out of RAM for the last section of code so I was unable to run it. I will make sure to double check this beforehand next time and come to office hours if needed. 
+
+AI was used in this assignment. 
+The AI was used in the following manner: 
+1. To ask questions about technical terms and definitions that I had either not fully understood until application, forgotten from previous classes or was simply unfamiliar with. 
+For example: Claude, can you please explain to me what seed value is and why we use it and where it should go in this code and we we are using 1 in this code specifically? 
+2. AI was used to help solidify pseudocode into real code. There were instances were I understood what the assignment was asking but I did not know how to translate that into code, or only
+could do it partially. AI guided me to the correct code or the correct placement of the code. 
+For example: I understand what a data loader is, but can you walk me through how a variable can contain the data loader object in code? 
+3. AI was used to explain every line of provided code so I really understood what was happening in the assignment 
+For example: Claude, please comment out every line of provided code and explain what each line does and how it is relevant to the assignment instructions. 
+4. AI was used to clean any syntax errors if I was having a hard time finding them 
+For example: Claude, why am I getting this syntax error? 
+Answer: You have a typo in Dtype. 
